@@ -239,7 +239,7 @@ section {
 }
 
 .projects-item:hover {
-  background-image: url("/images/Nine\ Cups.JPG");
+  background-image: url("../images/Nine\ Cups.JPG");
   background-size: cover;
   background-position: center; /* Центрирование */
 
@@ -249,7 +249,7 @@ section {
 }
 
 .projects-item-valentines:hover {
-  background-image: url("/images/Valentines\ .JPG");
+  background-image: url("../images/Valentines\ .JPG");
   background-size: cover;
   background-position: center; /* Центрирование */
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /*Додає тінь */
@@ -258,7 +258,7 @@ section {
 }
 
 .projects-item-happy:hover {
-  background-image: url("/images/happy-new-year.JPG");
+  background-image: url("../images/happy-new-year.JPG");
   background-size: cover;
   background-position: center; /* Центрирование */
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /*Додає тінь */
@@ -267,7 +267,7 @@ section {
 }
 
 .projects-item-goit:hover {
-  background-image: url("/images/hero.JPG");
+  background-image: url("../images/hero.JPG");
   background-size: cover;
   background-position: center; /* Центрирование */
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /*Додає тінь */
