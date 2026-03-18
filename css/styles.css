@@ -232,7 +232,7 @@ section h2 {
 }
 
 .skills-grid-contents-off-noh:hover::after {
-  content: "23% ×";
+  content: "28% ×";
   opacity: 1;
   color: red;
 }
